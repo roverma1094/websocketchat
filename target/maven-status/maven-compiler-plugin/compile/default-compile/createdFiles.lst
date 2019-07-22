@@ -1,0 +1,4 @@
+com\mycompany\chatwebsocket\MessageEncoder.class
+com\mycompany\chatwebsocket\Message.class
+com\mycompany\chatwebsocket\MessageDecoder.class
+com\mycompany\chatwebsocket\ChatEndpoint.class
